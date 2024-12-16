@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find my reviews, news, and tech insights at https://vaibhavraj-4.github.io/.<br>
+🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
 
 
 ## 🌐 Socials:
