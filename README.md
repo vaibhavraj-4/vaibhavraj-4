@@ -1,9 +1,7 @@
 # 💫 About Me:
 🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
 
-
-
-<img align="right" height="150" src="https://giphy.com/embed/RbDKaczqWovIugyJmW"  />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-raj4) 
