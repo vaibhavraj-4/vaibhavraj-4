@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌟 Aspiring Developer passionate about technology and innovation.<br><img align="right" height="220" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
+<img align="right" height="220" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
 
 
 
@@ -14,8 +14,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
