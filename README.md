@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 
-<img align="right" height="220" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
+<img align="right" height="220" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />🌟 Aspiring Developer passionate about technology and innovation.<br>🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 **Find more about me:**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://vaibhavraj-4.github.io/)
+.<br>
 
 
 
