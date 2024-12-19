@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=dark&hide_border=false))
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&theme=radical&hide_border=true&layout=compact&langs_count=6)
 
 
