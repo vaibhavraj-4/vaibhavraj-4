@@ -1,3 +1,4 @@
+<img src="[https://your-cover-photo-url.com](https://github.com/vaibhavraj-4/vaibhavraj-4/blob/main/Black%20Technology%20LinkedIn%20Banner_20240413_132445_0000.png)" alt="Cover Photo" width="100%" />
 # 💫 About Me:
 🌟 Aspiring Developer passionate about technology and innovation.<br><img align="right" height="220" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" />🎓 BCA Student, exploring various domains of Computer Science.<br>🔧 Skilled in Web Development and enthusiastic about building intuitive user experiences.<br>💡 Love learning new programming languages and exploring tech trends.<br>📚 Currently delving into Cloud Computing and Full-Stack Development.<br>🚀 Working on personal and academic projects to grow my portfolio.<br>💬 Open to collaboration on exciting tech projects and hackathons!<br>🌐 Find more about me at https://vaibhavraj-4.github.io/.<br>
 
