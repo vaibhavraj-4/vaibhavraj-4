@@ -14,9 +14,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=dark&hide_border=false)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&theme=radical&hide_border=true&layout=compact&langs_count=6)
+
 
 
 
