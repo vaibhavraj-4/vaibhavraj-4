@@ -6,7 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://vaibhavraj-4.github.io/)
 .<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-raj4) 
 
