@@ -150,8 +150,6 @@ const vaibhavRaj = {
 
 <div align="center">
   
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&langs_count=8" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavraj4&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&layout=compact" />
 
 </div>
