@@ -25,7 +25,7 @@
 ```javascript
 const vaibhavRaj = {
     role: "AI Engineer 🤖",
-    journey_started: "November 24, 2024",
+    journey_started: "November 24, 2025",
     education: {
         degree: "Bachelor of Computer Applications",
         university: "BCIIT (Indraprastha University)",
@@ -55,7 +55,7 @@ const vaibhavRaj = {
 🎯 **AI Engineer** crafting intelligent solutions that make a difference  
 🎓 **BCA Graduate** from BCIIT, Indraprastha University (2025)  
 ☁️ **AWS Certified DevOps Engineer - Professional**  
-🌟 Joined the AI Engineering world on **November 24, 2024**  
+🌟 Joined the AI Engineering world on **November 24, 2025**  
 🎬 **Anime Enthusiast** - Studio Ghibli forever in my heart  
 📚 Currently vibing with **Gachiakuta** and classic Ghibli films  
 🔮 Building ML pipelines by day, watching anime by night  
