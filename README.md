@@ -160,14 +160,6 @@ const vaibhavRaj = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🏆 Hall of Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj-4&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 🔝 Legendary Repositories
 
 <div align="center">
