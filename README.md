@@ -150,16 +150,18 @@ const vaibhavRaj = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&icon_color=4A9EFF&text_color=E0E0E0&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=tokyonight&hide_border=true&background=1a1a2e&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavraj-4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&icon_color=4A9EFF&text_color=E0E0E0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=tokyonight&hide_border=true&background=1a1a2e&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhavraj-4&theme=tokyonight&utcOffset=5.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavraj4&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&layout=compact" />
 
 </div>
 
+<br>
+
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavraj-4&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavraj-4&custom_title=Contribution%20Journey&bg_color=1a1a2e&color=4A9EFF&line=4A9EFF&point=FF6B6B&hide_border=true&area=true" width="98%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -167,7 +169,7 @@ const vaibhavRaj = {
 ## 🏆 Hall of Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj-4&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj-4&theme=onestar&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -184,16 +186,8 @@ const vaibhavRaj = {
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavraj-4/vaibhavraj-4/output/snake.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
