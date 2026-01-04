@@ -25,7 +25,7 @@
 ```javascript
 const vaibhavRaj = {
     role: "AI Engineer 🤖",
-    journey_started: "November 24, 2025",
+    journey_started: "November 24, 2024",
     education: {
         degree: "Bachelor of Computer Applications",
         university: "BCIIT (Indraprastha University)",
@@ -33,9 +33,9 @@ const vaibhavRaj = {
     },
     passions: [
         "Building Intelligent Systems",
-        "Watching Anime, Movies and Travelling",
         "Studio Ghibli Films 🎬",
         "Gachiakuta Manga 📚",
+        "Japanese Anime & Culture 🇯🇵",
         "Cloud Architecture ☁️"
     ],
     current_quest: [
@@ -55,7 +55,7 @@ const vaibhavRaj = {
 🎯 **AI Engineer** crafting intelligent solutions that make a difference  
 🎓 **BCA Graduate** from BCIIT, Indraprastha University (2025)  
 ☁️ **AWS Certified DevOps Engineer - Professional**  
-🌟 Joined the AI Engineering world on **November 24, 2025**  
+🌟 Joined the AI Engineering world on **November 24, 2024**  
 🎬 **Anime Enthusiast** - Studio Ghibli forever in my heart  
 📚 Currently vibing with **Gachiakuta** and classic Ghibli films  
 🔮 Building ML pipelines by day, watching anime by night  
@@ -154,8 +154,16 @@ const vaibhavRaj = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraj-4&theme=tokyonight&hide_border=true&background=1a1a2e&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF&border_radius=10" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4A9EFF&text_color=E0E0E0&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavraj-4&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=4A9EFF&line=4A9EFF&point=FF6B6B&area=true&border_radius=10&height=300" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavraj-4&bg_color=1a1a2e&color=4A9EFF&line=4A9EFF&point=FF6B6B&area=true&hide_border=true" />
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🏆 Hall of Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj-4&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
