@@ -33,9 +33,9 @@ const vaibhavRaj = {
     },
     passions: [
         "Building Intelligent Systems",
+        "Watching Anime, Movies and Travelling",
         "Studio Ghibli Films 🎬",
         "Gachiakuta Manga 📚",
-        "Japanese Anime & Culture 🇯🇵",
         "Cloud Architecture ☁️"
     ],
     current_quest: [
